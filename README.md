@@ -3,6 +3,10 @@ official Code Implementation of **Variational Augmentation of Enhancing Historic
 Submitted to: **ICVGIP 2022** <br>
 ## Prerequisites
 
+## Dataset Download
+1. You can download the training images of DIBCO from here. Extract patches using ```datamaker.py```.
+2. You can download the testing data from here.
+3. You can also download the training patches directly from here. (recommended)
 ## Directory Structure
 ```
 - training_datasets
