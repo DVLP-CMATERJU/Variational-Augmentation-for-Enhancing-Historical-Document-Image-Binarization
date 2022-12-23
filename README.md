@@ -1,5 +1,5 @@
 # Variational-Augmentation-for-Enhancing-Historical-Document-Image-Binarization
-Official Code Implementation of **Variational Augmentation of Enhancing Historical Document Image Binarization** <br>
+Official Code Implementation of **[Variational Augmentation of Enhancing Historical Document Image Binarization](https://arxiv.org/abs/2211.06581)** <br>
 Submitted to: **ICVGIP 2022** <br>
 ## Prerequisites
 
