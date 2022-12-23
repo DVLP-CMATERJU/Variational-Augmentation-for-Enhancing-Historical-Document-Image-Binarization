@@ -4,9 +4,9 @@ Submitted to: **ICVGIP 2022** <br>
 ## Prerequisites
 
 ## Dataset Download
-1. You can download the training images of DIBCO from here. Extract patches using ```datamaker.py```.
-2. You can download the testing data from here.
-3. You can also download the training patches directly from here. (recommended)
+1. You can download the training images of DIBCO from [here](https://drive.google.com/file/d/1tpgxnHPHpwA9F39WNauucwtCDcLV7fRx/view?usp=share_link). Extract patches using ```datamaker.py```.
+2. You can download the testing data from [here](https://drive.google.com/file/d/1tpgxnHPHpwA9F39WNauucwtCDcLV7fRx/view?usp=share_link).
+3. You can also download the training patches directly from [here](https://drive.google.com/file/d/1tpgxnHPHpwA9F39WNauucwtCDcLV7fRx/view?usp=share_link). (recommended)
 ## Directory Structure
 ```
 - training_datasets
@@ -33,3 +33,4 @@ Submitted to: **ICVGIP 2022** <br>
 ```
 
 ## Train Instructions
+
