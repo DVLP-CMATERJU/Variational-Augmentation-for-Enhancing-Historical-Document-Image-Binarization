@@ -33,4 +33,10 @@ Submitted to: **ICVGIP 2022** <br>
 ```
 
 ## Train Instructions
+1. The Augmentation Network (Aug-Net) is based on BicycleGAN. Train the model according to the instructions specified in their official repository using the patches extracted from the training data. Copy the ```checkpoints``` folder into ``synthetic/```.
 
+2. Create an= subdirectory ```evaluation/``` to store intermediate results while the model is training.
+
+3. Run ```train.py``` to train the Binarization Network (Bin-Net).
+
+## Inference
