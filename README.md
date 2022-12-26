@@ -2,6 +2,10 @@
 Official Code Implementation of **[Variational Augmentation of Enhancing Historical Document Image Binarization](https://arxiv.org/abs/2211.06581)** <br>
 Accepted at: **[ICVGIP 2022](https://events.iitgn.ac.in/2022/icvgip/accepted_papers.html)** <br>
 ## Prerequisites
+1. Python 3.7+
+2. Pytorch 1.9+
+3. Albumentations
+4. Fast AI
 
 ## Dataset Download
 1. You can download the training images of DIBCO from [here](https://drive.google.com/file/d/1tpgxnHPHpwA9F39WNauucwtCDcLV7fRx/view?usp=share_link). Extract patches using ```datamaker.py```.
@@ -45,3 +49,9 @@ Accepted at: **[ICVGIP 2022](https://events.iitgn.ac.in/2022/icvgip/accepted_pap
 2. Specify path to weight files.
 3. Run ```infer.py```.
 4. For evaluation, specify the paths to the outputs and the ground truth images in ```eval.py``` and run it. 
+
+## TO - DO
+- [X] Inference instructions
+- [ ] Add environment.yml
+- [ ] Add weight files
+- [ ] Add sample images
