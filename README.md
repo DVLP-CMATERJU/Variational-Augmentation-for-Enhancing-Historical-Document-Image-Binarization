@@ -50,6 +50,22 @@ Accepted at: **[ICVGIP 2022](https://events.iitgn.ac.in/2022/icvgip/accepted_pap
 3. Run ```infer.py```.
 4. For evaluation, specify the paths to the outputs and the ground truth images in ```eval.py``` and run it. 
 
+## Citation
+If you find our paper or code useful, consider citing us:
+```
+@misc{https://doi.org/10.48550/arxiv.2211.06581,
+  doi = {10.48550/ARXIV.2211.06581},
+  
+  url = {https://arxiv.org/abs/2211.06581},
+  
+  author = {Dey, Avirup and Das, Nibaran and Nasipuri, Mita},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4.6},
+  
+  title = {Variational Augmentation for Enhancing Historical Document Image Binarization}
+```
+## Acknowledgements
+Our work is partly based on BicycleGAN and we made extensive use of their code. We would like to thank the authors for their contribution.
 ## TO - DO
 - [X] Inference instructions
 - [ ] Add environment.yml
