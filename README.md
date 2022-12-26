@@ -1,6 +1,6 @@
 # Variational-Augmentation-for-Enhancing-Historical-Document-Image-Binarization
 Official Code Implementation of **[Variational Augmentation of Enhancing Historical Document Image Binarization](https://arxiv.org/abs/2211.06581)** <br>
-Submitted to: **ICVGIP 2022** <br>
+Accepted at: **[ICVGIP 2022](https://events.iitgn.ac.in/2022/icvgip/accepted_papers.html)** <br>
 ## Prerequisites
 
 ## Dataset Download
@@ -41,7 +41,7 @@ Submitted to: **ICVGIP 2022** <br>
 3. Run ```train.py``` to train the Binarization Network (Bin-Net).
 
 ## Inference
-1. Change path to the directory containing test images
+1. Change path to the directory containing the test images.
 2. Specify path to weight files.
-3. Run ```infer.py```
+3. Run ```infer.py```.
 4. For evaluation, specify the paths to the outputs and the ground truth images in ```eval.py``` and run it. 
